@@ -1,3 +1,5 @@
+Project for Networking and Parallel Computation
+
 1. Setup Raspberry Pi
 2. Connect Raspberry Pi to breadboard
 3. Connect sensors and relays to breadboard
